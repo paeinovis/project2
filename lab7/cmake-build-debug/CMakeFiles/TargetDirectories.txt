@@ -1,0 +1,3 @@
+C:/Users/Pae/Documents/Pictures.2/school/school but less important files/programming/projects/prog2/lab7/cmake-build-debug/CMakeFiles/lab7.dir
+C:/Users/Pae/Documents/Pictures.2/school/school but less important files/programming/projects/prog2/lab7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Pae/Documents/Pictures.2/school/school but less important files/programming/projects/prog2/lab7/cmake-build-debug/CMakeFiles/rebuild_cache.dir

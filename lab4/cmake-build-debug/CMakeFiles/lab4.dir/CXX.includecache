@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Pae/Documents/Pictures.2/school/school but less important files/programming/projects/prog2/lab4/extrafile.cpp
+extrafile.h
+C:/Users/Pae/Documents/Pictures.2/school/school but less important files/programming/projects/prog2/lab4/extrafile.h
+vector
+C:/Users/Pae/Documents/Pictures.2/school/school but less important files/programming/projects/prog2/lab4/vector
+
+C:/Users/Pae/Documents/Pictures.2/school/school but less important files/programming/projects/prog2/lab4/extrafile.h
+iomanip
+-
+iostream
+-
+fstream
+-
+vector
+-
+stdio.h
+-
+
+C:/Users/Pae/Documents/Pictures.2/school/school but less important files/programming/projects/prog2/lab4/main.cpp
+iomanip
+-
+iostream
+-
+fstream
+-
+extrafile.h
+C:/Users/Pae/Documents/Pictures.2/school/school but less important files/programming/projects/prog2/lab4/extrafile.h
+
